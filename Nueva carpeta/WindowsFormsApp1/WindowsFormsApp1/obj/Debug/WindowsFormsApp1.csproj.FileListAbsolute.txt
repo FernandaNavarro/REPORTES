@@ -1,0 +1,80 @@
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.Firebird.dll
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\AdminSys\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.Firebird.dll
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JecSis03\Documents\PROYECTOS WINDOWS FORM\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.Firebird.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.Firebird.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JECSIS-01\source\repos\REPORTES\Nueva carpeta\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
